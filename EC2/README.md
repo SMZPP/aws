@@ -57,7 +57,7 @@ EC2インスタンスは目的別に最適化された以下のタイプに分�
 * **Savings Plans**
   Compute Savings PlanやEC2 Instance Savings Planがあり、使用量に応じた割引が受けられます。
 
-### 5. EC2ストレージオプション
+### 5. [EC2ストレージオプション](./STORAGE.md)
 * **EBS (Elastic Block Store)**
   高性能ブロックストレージで、データを永続的に保存できます。スナップショット機能を使ってバックアップが可能です。
 
