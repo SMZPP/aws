@@ -1,7 +1,5 @@
 AWS（Amazon Web Services）は、**Amazon.com**が提供する、クラウドコンピューティングサービスの総称です。AWSは、企業や開発者が必要とするインフラを**クラウド上で提供**し、ITシステムやアプリケーションの開発、運用を支援します。AWSを利用することで、企業は自前でサーバーやネットワーク機器を保有・運用することなく、必要なリソースをオンデマンドで利用することができます。
 
-※[AWS用語集](https://docs.aws.amazon.com/ja_jp/glossary/latest/reference/glos-chap.html?id=docs_gateway)
-
 --- 
 
 以下、AWSの主要な特徴とサービスの概要を説明します。
